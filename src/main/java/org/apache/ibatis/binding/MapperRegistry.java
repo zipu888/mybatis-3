@@ -27,6 +27,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * 所有的mapper都在这个类注册
  * @author Clinton Begin
  * @author Eduardo Macarron
  * @author Lasse Voss
